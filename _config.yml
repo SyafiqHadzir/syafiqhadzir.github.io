@@ -1,0 +1,28 @@
+layout: sidebar
+style: light
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  limit: 9
+  exclude:
+    archived: true
+    forks: true
+    projects:
+
+social_media:
+  website: https://syafiqhadzir.dev
