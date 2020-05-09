@@ -25,7 +25,7 @@
   <h3 align="center">Syafiq Hadzir (蟻艷卿)</h3>
 
   <p align="center">
-    Personal Github Website
+    Personal Github Showcase
     <br />
     <a href="https://syafiqhadzir.github.io/"><strong>View Website »</strong></a>
     <br />
