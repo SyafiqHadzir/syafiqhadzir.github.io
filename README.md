@@ -12,10 +12,30 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# syafiqhadzir.github.io
-Personal Github Profile Website
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/SyafiqHadzir/syafiqhadzir.github.io">
+    <img src="https://syafiqhadzir.dev/favicons/android-chrome-192x192.png"
+         alt="Personal Github profile page"
+         title="Personal Github profile page"
+         height="192" />
+  </a>
+
+  <h3 align="center">Syafiq Hadzir (蟻艷卿)</h3>
+
+  <p align="center">
+    Personal Github Website
+    <br />
+    <a href="https://syafiqhadzir.github.io/"><strong>View Website »</strong></a>
+    <br />
+  </p>
+</p>
+
+<br /><br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4bed77e4-2ea6-496d-ad1c-59f0cb62b3d5/deploy-status)](https://app.netlify.com/sites/syafiqhadzir/deploys)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
