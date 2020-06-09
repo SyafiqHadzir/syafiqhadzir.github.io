@@ -34,8 +34,7 @@
 
 <br /><br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4bed77e4-2ea6-496d-ad1c-59f0cb62b3d5/deploy-status)](https://app.netlify.com/sites/syafiqhadzir/deploys)
-
+<div align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/4bed77e4-2ea6-496d-ad1c-59f0cb62b3d5/deploy-status)](https://app.netlify.com/sites/syafiqhadzir/deploys)</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -47,4 +46,3 @@
 [stars-url]: https://github.com/SyafiqHadzir/syafiqhadzir.github.io/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SyafiqHadzir/syafiqhadzir.github.io.svg?style=flat-square
 [issues-url]: https://github.com/SyafiqHadzir/syafiqhadzir.github.io/issues
-
