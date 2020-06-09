@@ -11,6 +11,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bed77e4-2ea6-496d-ad1c-59f0cb62b3d5/deploy-status)](https://app.netlify.com/sites/syafiqhadzir/deploys)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,8 +34,6 @@
 </p>
 
 <br /><br />
-
-<div align="center">[![Netlify Status](https://api.netlify.com/api/v1/badges/4bed77e4-2ea6-496d-ad1c-59f0cb62b3d5/deploy-status)](https://app.netlify.com/sites/syafiqhadzir/deploys)</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
