@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SyafiqHadzir/syafiqhadzir.github.io">
+  <a rel="noopener noreferrer" href="https://github.com/SyafiqHadzir/syafiqhadzir.github.io">
     <img src="https://syafiqhadzir.dev/favicons/android-chrome-192x192.png"
          alt="Personal Github profile page"
          title="Personal Github profile page"
@@ -28,7 +28,7 @@
   <p align="center">
     Personal Github Showcase
     <br />
-    <a href="https://syafiqhadzir.github.io/"><strong>View Website »</strong></a>
+    <a rel="noopener noreferrer" href="https://syafiqhadzir.github.io/"><strong>View Website »</strong></a>
     <br />
   </p>
 </p>
